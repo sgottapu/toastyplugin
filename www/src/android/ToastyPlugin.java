@@ -1,4 +1,4 @@
-package com.stanleyidesis.toastyplugintest;
+package android;
 
 // The native Toast API
 import android.widget.Toast;

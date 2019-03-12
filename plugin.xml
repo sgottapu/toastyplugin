@@ -25,6 +25,6 @@
             </feature>
         </config-file>
 
-        <source-file src="src/android/ToastyPlugin.java" target-dir="app/src/main/java/com/stanleyidesis/toastyplugintest" />
+        <source-file src="src/android/ToastyPlugin.java" target-dir="app/src/main/java" />
     </platform>
 </plugin>
